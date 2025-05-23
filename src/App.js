@@ -1,3 +1,5 @@
+// See https://react.dev/learn/tutorial-tic-tac-toe
+
 import {useState} from 'react';
 
 function Square({value, onSquareClick}) {
